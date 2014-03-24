@@ -1,7 +1,11 @@
 Ruby Terminal Chess Game
 ===================================================
-![ScreenShot](Media/chessv1.0.png)
+
 Using Ruby to create a two-player terminal chess game
+
+
+![ScreenShot](Media/chessv1.0.png)
+
 
 To-Do List
 --
